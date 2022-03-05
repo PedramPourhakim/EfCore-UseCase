@@ -11,4 +11,5 @@ namespace EfCore.Domain.ProductAgg
         void Create(Product product);
         Product Get(int Id);
     }
+   
 }
